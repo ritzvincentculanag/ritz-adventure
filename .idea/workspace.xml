@@ -1,17 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0d5f693-3f0f-48ab-9de2-5301a0ec18f4" name="Changes" comment="" />
+    <list default="true" id="b0d5f693-3f0f-48ab-9de2-5301a0ec18f4" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Story.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/CharacterDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Protagonist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/adventure.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/audio/jopay.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/audio/select.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/audio/the_journey_begins.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/audio/title_theme.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/menu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/res/story.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/BackgroundMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/Dialogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/story/StoryMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Sound.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2JoCbx5HwYHzE7qQFcbvUM6LyZC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,9 +57,33 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/rvculanag/IdeaProjects/JavaRitzAdventure/src",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/utils" />
+      <recent name="$PROJECT_DIR$/src/story" />
+      <recent name="$PROJECT_DIR$/src/res/audio" />
+      <recent name="$PROJECT_DIR$/src/res" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaRitzAdventure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +92,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672735127495</updated>
+      <workItem from="1672735129100" duration="238000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1672735138384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672735138384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
