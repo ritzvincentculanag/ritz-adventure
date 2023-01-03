@@ -1,0 +1,15 @@
+Synopsis
+===================================================
+A story about a boy, his friends, and the many
+adventures that they have taken everytime school
+ends in the evening. A heartwarming, slice of life
+and somewhat comedic story.
+==================================================
+
+Choose from the menu below
+==================================================
+1. Adventure
+2. Zen
+3. Characters
+4. Exit
+==================================================
